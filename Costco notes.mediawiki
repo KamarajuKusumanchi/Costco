@@ -15,6 +15,7 @@
 
 * 990551 KS PESTO = Kirkland Basil Pesto; 22 oz
 * 14368 COUNTRY FR 2 = Country French bread 2 pack; 32 oz
+* 734382 INNKPR 8 GRN = Innkeeper's 8 Grain & Seed bread; 36 oz
 * 782796 KSWATER40PK = Kirkland Signature purified water; 40 500ml bottles
 * 9702 CSR SLD KIT = Taylor farms Caesar Salad Kit; 14 oz
 * 9702 CSR SLD KIT = Ready Pac Foods Romano Caesar salad kit; 14 oz
@@ -80,3 +81,5 @@
 
 * 1103106 SNAPWARE18PC = Snapware Pyrex Glass 18 piece set
 * 18610 TORTA SANDWI = Torta Sandwich Roll 12 count
+* 879520 NUTELLA 2PK = Nutella 950g; 2 pack
+* 817371 LAYER DIP = Rojo's Black Bean & Cotija Cheese 6 layer dip; 44 oz
