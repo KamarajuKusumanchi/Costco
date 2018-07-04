@@ -50,6 +50,7 @@
 
 * 723675 KLNX FAMILY = Kleenex facial tissues - 10 packs of 230 2-ply sheets; 8.2 x 8.4 in
 * 1116367 TASTY BITE = Tasty Bite Madras Lentils - 8 pouches each 10 oz
+* 1168538 CAULFLW BITE = Don Lee Farms Cauliflower Gluten-Free Bites; 1 lb
 
 * 18279 CHOC MILK = Horizon Organic low fat chocolate milk; 18 - 8 fl oz milk boxes;
 * 884 YOO-HOO CHOC = Yoo-hoo chocolate drink; 32 - 6.5 fl oz boxes
@@ -91,3 +92,4 @@
 * 1188705 LENTIL SOUP = Kettle Cuisine Organic Lentil Vegan Soup; 2 - 24 oz cups.
 
 * 1103102 2PK SPLATTER = Tamontina Proline splatter screens; 2 pk
+
