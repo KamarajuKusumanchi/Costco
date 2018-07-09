@@ -18,7 +18,7 @@
 * 14368 COUNTRY FR 2 = Country French bread 2 pack; 32 oz
 * 734382 INNKPR 8 GRN = Innkeeper's 8 Grain & Seed bread; 36 oz
 * 782796 KSWATER40PK = Kirkland Signature purified water; 40 500ml bottles
-* 1009982 *40/.5WATER = Poland spring water bottles; 40 count 500 ml each
+* 1009982 *40/.5WATER* = Poland spring water bottles; 40 count 500 ml each
 
 * 9702 CSR SLD KIT = Taylor farms Caesar Salad Kit; 14 oz
 * 9702 CSR SLD KIT = Ready Pac Foods Romano Caesar salad kit; 14 oz
