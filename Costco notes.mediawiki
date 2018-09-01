@@ -4,7 +4,7 @@
 * 1029407 XLG EGGS = Kirkland Signature Cage Free Grade AA Extra Large 24 Eggs
 
 * 818073 KS Tortellon = Kirkland Signature Five Cheese Tortelloni with Parmigiano Reggiano
-* 416076 KSDAILY 500C = Kirkalnd Signature Daily Multi 500 Tablets
+* 416076 KSDAILY 500C = Kirkland Signature Daily Multi 500 Tablets
 * 993207 VEG BARLEY = Cedarlane Organic Chopped Vegetable & Barley Soup; 2-32 oz Tubs
 * 512599 **KSTOWELS** = Kirkland Signature Premium Big Roll Towel; 12 rolls; 160 sheets per roll; 2-ply; 11 in x 7 in
 
@@ -98,3 +98,7 @@
 * 739910 BADMINTON = Wilson outdoor badminton set; 4 racquets; 4 shuttlecocks; 20ft net
 * 8816226 QUEEN TOPPER = Novaform 3” EVENcor GelPlus Memory Foam Mattress Topper; Queen; 60in x 80in x 3in
 * 384962 KS U/S QTRS = Kirkland Signature Unsalted Sweet Cream Butter Quarters, four 4-oz sticks; 4 count
+
+* 222490 XL PEANUTS = Kirkland Signature Super Extra-Large Peanuts; 2.5 lb (40 oz)
+* 1111111 CETAPHIL CRM = Cetaphil Moisturizing Cream 28.8 oz (two tubs: 20 oz + 8.8 oz)
+* 260509 POLLY-O CHSE = Polly-O String Cheese Mozzarella; 48 sticks; 1 oz each
