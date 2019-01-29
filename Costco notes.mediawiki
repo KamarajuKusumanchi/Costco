@@ -104,3 +104,5 @@
 * 260509 POLLY-O CHSE = Polly-O String Cheese Mozzarella; 48 sticks; 1 oz each
 * 986030 KS BODYWASH = Kirkland Signature body wash; natural citrus; 2 x 800 ml
 * 1028472 KS ALLERFLO = Kirkland Signature Aller-flo 5x120 metered sprays; 15.8 ml each;
+
+* 891394 AUSSIE BITES = Universal Bakery Organic Aussie Bites; 32 bites; 30 oz;
